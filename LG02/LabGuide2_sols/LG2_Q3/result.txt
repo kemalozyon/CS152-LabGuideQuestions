@@ -1,0 +1,2 @@
+Maximum number is 78 
+Average is 33.78

@@ -1,0 +1,16 @@
+15
+101 JohnDoe C 6 500
+102 AliceSmith S 4 350
+103 MarkJohnson Y 5 200
+104 EmilyBrown C 7 450
+105 DavidWhite S 3 300
+106 SarahMiller Y 8 220
+107 JamesDavis C 10 480
+108 LauraWilson S 2 320
+109 RobertAnderson Y 6 210
+110 OliviaMoore C 4 460
+111 CharlesTaylor S 5 340
+112 SophiaThomas Y 7 230
+113 WilliamHarris C 9 490
+114 EmmaMartin S 6 360
+115 DanielThompson Y 3 190

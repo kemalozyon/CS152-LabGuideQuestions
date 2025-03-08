@@ -1,0 +1,4 @@
+﻿  Q1.cpp
+g:\my drive\ctis152\152_24_25_spring\labguides\lg06-hzy-r\v2\lg06_sol\lg06_1\q1.cpp(49): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+g:\my drive\ctis152\152_24_25_spring\labguides\lg06-hzy-r\v2\lg06_sol\lg06_1\q1.cpp(62): warning C4101: 'cnt': unreferenced local variable
+  LG06_1.vcxproj -> G:\My Drive\CTIS152\152_24_25_Spring\LabGuides\LG06-HZY-R\v2\LG06_Sol\x64\Debug\LG06_1.exe
