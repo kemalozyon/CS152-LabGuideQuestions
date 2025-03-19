@@ -1,33 +1,34 @@
 #include <stdio.h>
 
-void swap(int *x, int *y){ //Call by reference. It takes two argument as address. 
-    int temp = *x; // We assign the value of where the address x points to.
-    *x = *y; // we assign the value of y to the location of x.
-    // * -> it stands for dereferencing it used to reach the value of an address.
-    *y = temp;
+void swap(int *x, int *y); //Swap function taking address of variables as parameter.
+
+int main(void)
+{
+    int num1, num2;
+    do{
+        printf("Enter the first number: ");
+        scanf("%d",&num1);
+        if(num1 <= 0)
+        {
+            printf("The number must be positive\n");
+        }
+    }while(num1 <= 0);
+
+    do{
+        printf("Enter the second number: ");
+        scanf("%d",&num2);
+        if(num2 <= 0)
+        {
+            printf("The number must be positive\n");
+        }
+    }while(num2 <= 0);
+    printf("The numbers are: %d %d\n",num1,num2);
+    swap(&num1,&num2);
+    printf("The swapped numbers are: %d %d",num1, num2);
 }
 
-int main(void){
-    int a, b;
-    do{
-        printf("Enter first value: ");
-        scanf("%d",&a);
-        if(a < 0){
-            printf("First number must be poistive\n");
-        }
-    }while(a < 0);
-    do {
-        printf("Enter second value");
-        scanf("%d",&b);
-        if(b < 0){
-            printf("The second number must be positive\n");
-        }
-    }while (b < 0);
-
-    printf("Before swap: %d %d\n",a,b);
-    swap(&a,&b);
-    printf("After swap: %d %d\n",a,b);
-
-    return 0;    
-
+void swap(int *x, int *y){
+    int temp = *x;
+    *x = *y;
+    *y = temp;
 }
