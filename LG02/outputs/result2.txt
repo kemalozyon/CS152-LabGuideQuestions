@@ -1,0 +1,2 @@
+Maximum number is 2321123
+Avarage is 332272.29

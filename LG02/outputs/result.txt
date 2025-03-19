@@ -1,0 +1,6 @@
+Element Name     Value   Address
+*(arr + 0) 		 2 		0x15ae05f60
+*(arr + 1) 		 4 		0x15ae05f64
+*(arr + 2) 		 8 		0x15ae05f68
+*(arr + 3) 		 16 		0x15ae05f6c
+*(arr + 4) 		 32 		0x15ae05f70
