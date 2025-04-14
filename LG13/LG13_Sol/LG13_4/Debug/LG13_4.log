@@ -1,0 +1,6 @@
+﻿  Q4.cpp
+g:\.shortcut-targets-by-id\16arunszjwqwjc8pilbed7_uquntzdpt2\152_24_25_spring\labguides\lg13-hzy-wip\lg13_sol\lg13_4\q4.cpp(19): warning C4101: 'len': unreferenced local variable
+g:\.shortcut-targets-by-id\16arunszjwqwjc8pilbed7_uquntzdpt2\152_24_25_spring\labguides\lg13-hzy-wip\lg13_sol\lg13_4\q4.cpp(57): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+g:\.shortcut-targets-by-id\16arunszjwqwjc8pilbed7_uquntzdpt2\152_24_25_spring\labguides\lg13-hzy-wip\lg13_sol\lg13_4\q4.cpp(57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+g:\.shortcut-targets-by-id\16arunszjwqwjc8pilbed7_uquntzdpt2\152_24_25_spring\labguides\lg13-hzy-wip\lg13_sol\lg13_4\q4.cpp(57): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  LG13_4.vcxproj -> G:\.shortcut-targets-by-id\16ArUNsZjWQwJc8PILbED7_uqUNTzdPt2\152_24_25_Spring\LabGuides\LG13-HZY-WIP\LG13_Sol\Debug\LG13_4.exe

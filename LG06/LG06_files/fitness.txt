@@ -1,4 +1,4 @@
-15
+25
 101 JohnDoe C 6 500
 102 AliceSmith S 4 350
 103 MarkJohnson Y 5 200
@@ -14,3 +14,13 @@
 113 WilliamHarris C 9 490
 114 EmmaMartin S 6 360
 115 DanielThompson Y 3 190
+116 MichaelLee C 8 520
+117 JenniferGarcia S 5 380
+118 ThomasWilson Y 4 240
+119 PatriciaMoore C 7 470
+120 RichardDavis S 6 330
+121 ElizabethBrown Y 5 250
+122 JosephMiller C 9 510
+123 NancyTaylor S 4 370
+124 ChristopherLee Y 6 260
+125 MargaretWhite C 8 480

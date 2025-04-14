@@ -1,0 +1,6 @@
+5
+Google 1000 8
+Apple 1200 10
+OnePlus 800 12
+Samsung 900 15
+Xiaomi 700 20
