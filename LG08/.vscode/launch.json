@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/kemalozyon/VSCoding/C/CS152-LabGuideQuestions/LG08",
+      "program": "/Users/kemalozyon/VSCoding/C/CS152-LabGuideQuestions/LG08/build/Debug/outDebug"
+    }
+  ]
+}
