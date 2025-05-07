@@ -1,0 +1,8 @@
+Cloud-5
+AI-2
+Algorithm-9
+Cyber-5
+Quantum-7
+Network-7
+Data-4
+Firmware-8
